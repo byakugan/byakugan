@@ -2,7 +2,6 @@
 - 👀 I’m interested in HW/SW design in that order 😀
 - 🌱 I’m currently learning HW design
 - 💞️ I’m looking to collaborate on HW design and verification
-- 📫 How to reach me ...
 
 <!---
 byakugan/byakugan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
